@@ -1,4 +1,6 @@
+#This Tools Was Fucked😒
+
 - `rm -rf BXI`
 - `git clone https://github.com/AKING110/BXI.git`
-- `cd BXI`
+- `cd fuck_bxi`
 - `python bxi`
