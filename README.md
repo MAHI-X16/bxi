@@ -2,7 +2,7 @@
 
 #This Tools Was Fucked😒
 
-- `rm -rf BXI`
-- `git clone https://github.com/MAHI-X16/fuck_bxi `
-- `cd fuck_bxi`
+- `rm -rf bxi`
+- `git clone https://github.com/MAHI-X16/bxi `
+- `cd bxi`
 - `python bxi`
